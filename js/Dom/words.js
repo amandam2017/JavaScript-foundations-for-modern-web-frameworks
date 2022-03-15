@@ -3,3 +3,11 @@
 // add btn to do something onclick
 const sentenceElem = document.querySelector('.sentence');
 const addBtnElem = document.querySelector('.addBtn');
+
+const addSentence = ()=>{
+    const userWords = sentenceElem.value;
+    if(userWords){
+        
+    } 
+
+}
