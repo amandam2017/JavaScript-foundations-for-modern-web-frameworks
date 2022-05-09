@@ -1,5 +1,12 @@
 # Roadmap: JavaScript foundations for modern web frameworks
 
+## Widgets to build
+
+* [Guessing game](/MiniWidgets.md#guessing-game)
+* [Flags/Fruits Widget](/MiniWidgets.md#working-with-dynamic-data)
+* [Words Widget](/WordsWidget.md)
+* [Taxi Rank Widget](/TaxiRankApp.md)
+
 ## Foundational Web Application development skills
 
 The list below is foundational skills that Web App developers should master.
